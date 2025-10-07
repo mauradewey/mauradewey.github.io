@@ -13,3 +13,4 @@ My [research](https://mauradewey.github.io/research) is on aerosol-cloud-climate
 
 In addition to my academic work, I also spend a lot of time [around boats](https://mauradewey.github.io/sailing), both as a competitve sailor and professional meteorologist.
 
+(This website is currently under development and most pages and links are not populated yet. If you have any questions about either my scientific work or sailing, please feel free to send me an email.)
