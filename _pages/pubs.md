@@ -1,8 +1,12 @@
 ---
 layout: single
 title: "Publications"
-permalink: /publications/
+permalink: /pubs/
 author_profile: true
+redirect_from:
+  - /publications/
+  - /publications.html
+
 ---
 
 # Publications
